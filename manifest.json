@@ -1,0 +1,26 @@
+{
+  "name": "Milodón Cruzando Torres del Paine",
+  "short_name": "Milodón Torres",
+  "description": "Cruza Torres del Paine como milodón con boina roja, mochila TORRES y bastones. Esquiva micros 20 21 22 de Puerto Natales",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "orientation": "landscape",
+  "background_color": "#E3F2FD",
+  "theme_color": "#1976D2",
+  "lang": "es",
+  "scope": "./",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/1995/1995515.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/1995/1995515.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
