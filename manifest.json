@@ -1,26 +1,24 @@
 {
-  "name": "Milodón Cruzando Torres del Paine",
-  "short_name": "Milodón Torres",
-  "description": "Cruza Torres del Paine como milodón con boina roja, mochila TORRES y bastones. Esquiva micros 20 21 22 de Puerto Natales",
-  "start_url": "./index.html",
+  "name": "Milodon Torres del Paine",
+  "short_name": "Milodon",
+  "description": "Cruza Torres del Paine con el Milodon - Juego de 【entity-Camilo¦canonical_name=Camilo】",
   "display": "standalone",
-  "orientation": "landscape",
-  "background_color": "#E3F2FD",
-  "theme_color": "#1976D2",
-  "lang": "es",
-  "scope": "./",
+  "background_color": "#0a4a2e",
+  "theme_color": "#0a4a2e",
+  "start_url": "./index.html",
+  "orientation": "any",
   "icons": [
     {
-      "src": "https://cdn-icons-png.flaticon.com/512/1995/1995515.png",
+      "src": "https://cdn-icons-png.flaticon.com/512/4151/4151022.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any maskable"
     },
     {
-      "src": "https://cdn-icons-png.flaticon.com/512/1995/1995515.png",
+      "src": "https://cdn-icons-png.flaticon.com/512/4151/4151022.png",
       "sizes": "192x192",
       "type": "image/png",
-      "purpose": "any"
+      "purpose": "any maskable"
     }
   ]
 }
